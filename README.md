@@ -8,4 +8,4 @@
 ## Project Goals
 - Create accessible DAO guide for founders
 - Produce beginner-friendly smart contract tutorials
-- All resources free (CC BY 4.0)
+- All resources free (CC0 1.0)
