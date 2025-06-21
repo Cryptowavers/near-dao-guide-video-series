@@ -1,5 +1,11 @@
-# NEAR Public Goods Project: DAO Guide & Video Series
-Proposal Summary: Creating free, open-source resources for non-technical founders and new developers on NEAR Protocol.
-- Deliverable 1: Illustrated DAO Deployment Guide (PDF)  
-- Deliverable 2: 12-Part Video Series: "Mastering NEAR Smart Contracts"
-License: CC BY 4.0
+# NEAR DAO Guide & Video Series
+
+**Grant Proposal for NEAR Public Goods**
+
+👉 [View Proposal Outline](/outlines/dao-guide-outline.md)  
+🎬 [First Video Script](/outlines/video-script-1.md)
+
+## Project Goals
+- Create accessible DAO guide for founders
+- Produce beginner-friendly smart contract tutorials
+- All resources free (CC BY 4.0)
